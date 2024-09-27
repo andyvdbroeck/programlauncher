@@ -1,0 +1,1 @@
+%JAVA_HOME%/bin/java -cp "programlauncher.jar;commons-math3-3.2.jar;freetts-1.2.2.jar;sphinx4-core-5prealpha-SNAPSHOT.jar;sphinx4-data-5prealpha-SNAPSHOT.jar" be.speech.Main
