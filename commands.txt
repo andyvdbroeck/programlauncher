@@ -1,0 +1,5 @@
+open edge	cmd.exe /c start msedge www.google.com
+close edge	cmd.exe /c TASKKILL /IM msedge.exe
+open google	cmd.exe /c start msedge www.google.com
+open facebook	cmd.exe /c start msedge www.facebook.com
+open gmail	cmd.exe /c start msedge www.gmail.com
